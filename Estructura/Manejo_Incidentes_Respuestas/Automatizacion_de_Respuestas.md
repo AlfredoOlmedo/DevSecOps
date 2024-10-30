@@ -1,0 +1,1 @@
+Automatización de Respuesta.md: Introducción a playbooks de respuesta automatizada ante incidentes usando herramientas como StackStorm o AWS Lambda.

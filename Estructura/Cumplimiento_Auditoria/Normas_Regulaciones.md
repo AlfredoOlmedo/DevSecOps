@@ -1,0 +1,1 @@
+Normas_y_Regulaciones.md: Explicación de los estándares más comunes como ISO 27001, SOC 2, GDPR.

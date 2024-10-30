@@ -1,0 +1,1 @@
+Deteccion_y_Respuesta.md: Técnicas y prácticas para la detección de incidentes de seguridad y respuesta efectiva.

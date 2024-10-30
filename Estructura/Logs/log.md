@@ -1,0 +1,1 @@
+Ejemplos de Log.md: Buenas prácticas para el loggeo seguro y manejo de datos sensibles.

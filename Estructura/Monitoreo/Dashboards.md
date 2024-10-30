@@ -1,0 +1,1 @@
+Dashboards: Ejemplos de dashboards de Grafana específicos para DevOpsSec (latencia, carga, errores, eventos de seguridad).

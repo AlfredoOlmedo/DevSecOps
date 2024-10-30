@@ -1,0 +1,1 @@
+Pipeline_CD_Jenkins: Un pipeline de CD completo en Jenkins, que despliega una app en staging y producción.

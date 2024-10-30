@@ -1,0 +1,1 @@
+Ejemplo de Auditoría: Scripts y configuraciones para realizar auditorías de seguridad básicas.

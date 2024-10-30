@@ -1,0 +1,1 @@
+Ejercicios_Practicos: Carpetas con ejercicios básicos de cada herramienta (por ejemplo, un despliegue simple con Docker).
